@@ -1,0 +1,17 @@
+h1 {
+ color: aqua;
+ font-style: italic;
+ font-weight: bolder;
+ font-size: large;
+}
+
+body{
+    background-color:darkblue;
+    text-align: center;
+}
+
+p{
+    font-weight:bold;
+    color: chartreuse;
+    font-style: italic;
+}
